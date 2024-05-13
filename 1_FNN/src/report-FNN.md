@@ -1,7 +1,5 @@
 ## **【Report】前馈神经网络FNN**
 
-==肖羿 PB21010452==
-
 ### **【概述】**
 
 Python基于Pytorch库实现前馈神经网络，近似函数 $f(x)=\log_2{x}+\cos(\frac{\pi x}{2}),x\in[1,16]$ 。
