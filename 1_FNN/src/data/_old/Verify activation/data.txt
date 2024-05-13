@@ -1,0 +1,20 @@
+[数据集总量 N=10000]
+[网络宽度 wide=40]
+[网络深度 depth=5]
+[学习率 learning rate=0.01]
+[激活函数类型 activation=Sigmoid,Tanh,ReLU,ELU,Softplus]
+
+(act=Sigmoid)
+loss: ['0.000483', '0.001800', '0.003032'] loss_average=0.001772
+
+(act=Tanh)
+loss: ['0.545168', '0.332774', '0.408867'] loss_average=0.428936
+
+(act=ReLU)
+loss: ['0.004116', '0.007988', '0.001638'] loss_average=0.004580
+
+(act=ELU)
+loss: ['0.007162', '0.014198', '0.010711'] loss_average=0.010691
+
+(act=Softplus)
+loss: ['0.002296', '0.002442', '0.001725'] loss_average=0.002154

@@ -1,0 +1,7 @@
+[数据集总量 N=10000]
+[网络宽度 wide=40]
+[网络深度 depth=4]
+[学习率 learning rate=0.01]
+[激活函数类型 activation=Sigmoid()]
+
+loss: ['0.001752', '0.008321', '0.001625'] loss_average=0.003899
