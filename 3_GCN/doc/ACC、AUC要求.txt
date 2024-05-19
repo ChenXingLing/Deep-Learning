@@ -1,0 +1,6 @@
+节点分类（Top1acc）
+cora：80以上
+citeseer：70以上
+
+链路预测（AUC）
+cora和citeseer都85以上

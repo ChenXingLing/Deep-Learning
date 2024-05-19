@@ -1,0 +1,16 @@
+【Colab分享】https://colab.research.google.com/drive/1naT6ZMPHLbl_9J8ui1Iuuw46BBjygNfZ?usp=sharing
+
+——————
+
+【安装PyG库】https://blog.csdn.net/javafalcon/article/details/121188019
+
+  [查看Colab里torch的版本信息]
+import torch
+torch.__version__
+
+  [复制pyg文档里的安装命令]
+!pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-2.2.1+cu121.html
+
+——————
+
+【安装 sklearn库】!pip install -U scikit-learn
